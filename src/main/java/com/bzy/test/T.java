@@ -2,7 +2,8 @@ package com.bzy.test;
 
 public class T {
 	public static void main(String[] args) {
-		System.out.println("我是从githue上下载的");
+		System.out.println("鎴戞槸浠巊ithub涓笅杞界殑");
+		System.out.println("鎴戝厛鍋氱殑");
 	}
 
 }
